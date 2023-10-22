@@ -77,7 +77,7 @@ To run this project locally, you can follow these steps:
 
 ## The project is organized as follows:
 
-- `data/`: Contains the dataset used for training and testing.
+- `AirPassengers.csv`: Contains the dataset used for training and testing.
 - `time series project.ipynb`: Jupyter notebooks with code for data preprocessing, model training, and evaluation.
 - `README.md`: This file.
 
