@@ -54,8 +54,8 @@ Fig: ACF and PACF analysis plot
 ## **Visualization**:
    - Original time series data and forecasted values are plotted to visualize the model's performance.
 
-  ![](graphs/Unknown-5.png)
-   Fig: ARIMA forecast  
+![](graphs/Unknown-5.png)
+Fig: ARIMA forecast  
 
 ![](graphs/Unknown-6.png)
 Fig: SARIMA forecast
@@ -64,8 +64,8 @@ Fig: SARIMA forecast
    - Future dates are generated for future forecasting.
    - The ARIMA model is used to forecast passenger counts for future dates.
    - The forecasted values for future dates are plotted alongside historical data.
-   ![](graphs/Unknown-7.png)
-   Fig: Future forecast
+![](graphs/Unknown-7.png)
+Fig: Future forecast
 
 
 
