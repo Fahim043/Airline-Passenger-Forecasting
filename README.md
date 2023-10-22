@@ -40,7 +40,6 @@ Fig: After removing seasoning
    - Autocorrelation Function (ACF) and Partial Autocorrelation Function (PACF) plots are created to determine the parameters (p, d, q) of the ARIMA model.
 
 ![](graphs/Unknown-4.png)
-
 Fig: ACF and PACF analysis plot
 
  ## **Modeling**:
