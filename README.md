@@ -31,15 +31,18 @@ The project follows these key steps:
 
 
 ![](graphs/Unknown-2.png)
+
 Fig: After 2nd shift differening 
 
 ![](graphs/Unknown-3.png)
+
 Fig: After removing seasoning 
 
 ## **ACF and PACF Analysis**:
    - Autocorrelation Function (ACF) and Partial Autocorrelation Function (PACF) plots are created to determine the parameters (p, d, q) of the ARIMA model.
 
 ![](graphs/Unknown-4.png)
+
 Fig: ACF and PACF analysis plot
 
  ## **Modeling**:
@@ -55,9 +58,11 @@ Fig: ACF and PACF analysis plot
    - Original time series data and forecasted values are plotted to visualize the model's performance.
 
 ![](graphs/Unknown-5.png)
+
 Fig: ARIMA forecast  
 
 ![](graphs/Unknown-6.png)
+
 Fig: SARIMA forecast
 
 ## **Future Forecast**:
@@ -65,6 +70,7 @@ Fig: SARIMA forecast
    - The ARIMA model is used to forecast passenger counts for future dates.
    - The forecasted values for future dates are plotted alongside historical data.
 ![](graphs/Unknown-7.png)
+
 Fig: Future forecast
 
 
